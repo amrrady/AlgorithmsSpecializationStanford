@@ -1,2 +1,2 @@
 # AlgorithmsSpecializationStanford
-Practicing different algorithm techniques
+Practicing different algorithms techniques
